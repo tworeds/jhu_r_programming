@@ -39,7 +39,7 @@ cacheSolve <- function(x, ...) {
   ix
 }
 
-#solve(B) - if impossible
+#try it out
 test_matrix <- matrix(c(1:4),2,2)
 
 #Return inverse after computation
